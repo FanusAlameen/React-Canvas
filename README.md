@@ -3,6 +3,8 @@
 ## Description
 This is a mini React + Vite app project that utilizes Fabric.js, React Icons, and Styled Components. The project is aimed at providing a lightweight and efficient platform for incorporating interactive canvas elements with a modern React framework and styling using Styled Components. React Icons are used to easily include popular icons in the application.
 
+https://react-canvas-seven.vercel.app/ <- Click on this link to view the live application.
+
 ## Getting Started
 
 ### Prerequisites
